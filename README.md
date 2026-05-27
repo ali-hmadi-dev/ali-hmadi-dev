@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Ali
 
-<!--
-**ali-hmadi-dev/ali-hmadi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    Bin ein Student der Künstlichen Intelligenz und Mathematik, der in Deutschland studiert und sich für Folgendes interessiert: 
+- Assistant Systems
+- Machine Learning
+- Data Science
+- Software Engineering
+- Computer Vision
 
-Here are some ideas to get you started:
+    Aktuell suche ich nach einem Anwendungsgebiet, in dem ich mindestens eine der zuvor genannten Fähigkeiten anwenden kann, und habe mich entschieden, an Projekten aus verschiedenen Bereichen mitzuarbeiten, um die erforderlichen Kenntnisse in der angewandten Arbeit zu erwerben.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Aktuelle Projekte
+- Used Car Price Prediction
+- "RAYO" Chatbot
+- Software-defined Vehicle Interface
+  
+# Tech Stack
+- Flask, scikit-learn, Azure App Services, Chatbot Engine, Unittest, Tkinter
+- Python, Markdown, JavaScript, HTML5, CSS3, UML, SQL
